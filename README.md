@@ -19,7 +19,7 @@ Este projeto é um clone da interface do YouTube, desenvolvido com foco em prati
 
 ## 📷 Preview
 
-![Preview do projeto](link-para-screenshot-ou-gif)
+![Preview do projeto]([link-para-screenshot-ou-gif](https://opanascimentoo.github.io/Clone-YouTube-/))
 
 ## 📁 Estrutura de pastas
 
